@@ -15,11 +15,11 @@
 
 - [Computer Information Technology Specialist](https://linktr.ee/whosdolphin)
 - [Computer Information Data Specialist](https://linktr.ee/whosdolphin)
-- [Operations Support and Services by Joint Chief of Staff](https://linktr.ee/whosdolphin)
-- [Operations Security (OPSEC) by Joint Chief of Staff ](https://linktr.ee/whosdolphin)
-- [Counterinsurgency by Joint Chief of Staff](https://linktr.ee/whosdolphin)
-- [Antiterrorism Awareness Training by Joint Chief of Staff](https://linktr.ee/whosdolphin)
-- [Department of Defense Cyber Awareness by Joint Chief of Staff](https://linktr.ee/whosdolphin)
+- [Operations Support and Services      | by Joint Chief of Staff](https://linktr.ee/whosdolphin)
+- [Operations Security (OPSEC)          | by Joint Chief of Staff](https://linktr.ee/whosdolphin)
+- [Counterinsurgency                    | by Joint Chief of Staff](https://linktr.ee/whosdolphin)
+- [Antiterrorism Awareness Training     | by Joint Chief of Staff](https://linktr.ee/whosdolphin)
+- [Department of Defense Cyber Awareness| by Joint Chief of Staff](https://linktr.ee/whosdolphin)
 
 
 <h2> 🤳 Connect with me:</h2>
