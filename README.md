@@ -1,4 +1,4 @@
-<h1>Hi, I'm Delfin! <br/><a href="https://github.com/whosdolphin">Programmer</a>, <a href="https://www.linkedin.com/in/delfinalopez/">Cybersecurity enthusiast</a>, <a href="https://linktr.ee/whosdolphin">Content creator</a></h1>
+<h1>Hi, I'm Delfin! <br/><a href="https://www.linkedin.com/in/delfinalopez/">Cybersecurity enthusiast</a>, <a href="https://github.com/whosdolphin">Programmer</a>,  <a href="https://linktr.ee/whosdolphin">Content creator</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
