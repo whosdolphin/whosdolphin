@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/whosdolphin)
+  - [Active Directory Home Lab](https://github.com/whosdolphin/ActiveDirectoryLabPowershell)
   - [Hello World!](https://github.com/whosdolphin)
 
 
